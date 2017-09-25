@@ -26,4 +26,5 @@ Results
 Important Files to look at:
 - data used is on the data folder
 - word clouds generated are saved in the word clouds folder
+- summary statistics can be found in "Capstone Notebook-Statistics"
 - final code, report and slide deck are labeled beginning with "Capstone_Final_ "
