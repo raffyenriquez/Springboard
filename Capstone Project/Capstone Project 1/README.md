@@ -1,7 +1,7 @@
 
 Background
 
-The bible has been the best selling book of all time and yet it being widely available there has been difficulty understanding its message.
+The bible has been the best selling book of all time and yet despite it being widely available there has been difficulty understanding its message.
 
 Project Focus
 
